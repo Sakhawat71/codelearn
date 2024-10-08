@@ -1,9 +1,9 @@
 
 const NavBar = () => {
 
-    
+
     return (
-        <div>
+        <div clssName="">
             
         </div>
     );
